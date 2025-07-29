@@ -2,6 +2,19 @@
 
 Project combining R analysis and Power BI visualizations for ticket data.
 
+## Περιγραφή Dataset
+
+Το αρχείο `dataset-tickets-multi-lang-4-20k.csv` περιέχει δεδομένα σχετικά με tickets υποστήριξης που περιλαμβάνουν:
+
+- Περίπου 20,000 εγγραφές (γραμμές).
+- Στήλες που περιγράφουν τον τύπο του ticket (Incident, Request, Problem, Change).
+- Πληροφορίες για την προτεραιότητα (High, Medium, Low).
+- Γλωσσικά χαρακτηριστικά των tickets.
+- Επιπλέον tags και κατηγορίες, όπως queue, language, και άλλες.
+
+Αυτά τα δεδομένα χρησιμοποιούνται για ανάλυση και δημιουργία visualizations με σκοπό την καλύτερη κατανόηση και διαχείριση των tickets.
+
+
 ## Περιεχόμενα φακέλων
 
 - [PowerBI_Project.pbix](./PowerBI_Project.pbix) : Το αρχείο του Power BI dashboard.
