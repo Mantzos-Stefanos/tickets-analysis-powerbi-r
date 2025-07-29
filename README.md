@@ -1,4 +1,4 @@
-# tickets-analysis-powerbi-r
+# Tickets-analysis-powerbi-R
 
 Project combining R analysis and Power BI visualizations for ticket data.
 
