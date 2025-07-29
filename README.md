@@ -9,6 +9,8 @@ Project combining R analysis and Power BI visualizations for ticket data.
 - [rpubs analysis](https://rpubs.com/StefanosMan/1332157) : Αναλυτική ανάλυση και preprocessing στο R.
 
 - ## Screenshot από το Power BI Dashboard
+- ![Power BI Dashboard](./powerbi_dashboard.png)
+
 
 
 
