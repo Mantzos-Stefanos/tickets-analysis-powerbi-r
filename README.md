@@ -10,7 +10,7 @@ Project combining R analysis and Power BI visualizations for ticket data.
 
 - ## Screenshot από το Power BI Dashboard
 
-![Power BI Dashboard](./docs/powerbi_dashboard.png)
+
 
 
 ## Περιγραφή
