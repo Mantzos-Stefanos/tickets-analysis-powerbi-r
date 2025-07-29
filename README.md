@@ -2,12 +2,10 @@
 
 Project combining R analysis and Power BI visualizations for ticket data.
 
-## Περιεχόμενα
+## Περιεχόμενα φακέλων
 
-- `/data` : Αρχείο dataset με τα αρχικά δεδομένα.
-- `/R_scripts` : R scripts για προεπεξεργασία, text mining και ανάλυση.
-- `/PowerBI` : Power BI dashboard αρχείο (.pbix) με interactive visualizations.
-- `/docs` : Επιπλέον documentation, screenshots, και οδηγίες.
+- [PowerBI_Project.pbix](./PowerBI_Project.pbix) : Το αρχείο του Power BI dashboard.
+- [dataset-tickets-multi-lang-4-20k.csv](./dataset-tickets-multi-lang-4-20k.csv) : Το αρχικό dataset με τα tickets.
 
 ## Περιγραφή
 
