@@ -6,6 +6,7 @@ Project combining R analysis and Power BI visualizations for ticket data.
 
 - [PowerBI_Project.pbix](./PowerBI_Project.pbix) : Το αρχείο του Power BI dashboard.
 - [dataset-tickets-multi-lang-4-20k.csv](./dataset-tickets-multi-lang-4-20k.csv) : Το αρχικό dataset με τα tickets.
+- [rpubs analysis](https://rpubs.com/StefanosMan/1332157) : Αναλυτική ανάλυση και preprocessing στο R.
 
 ## Περιγραφή
 
